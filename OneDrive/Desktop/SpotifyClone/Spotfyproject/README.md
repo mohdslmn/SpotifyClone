@@ -7,9 +7,6 @@ The Spotify Clone Project aims to replicate the key features and UI of Spotify, 
 
 #Features:
 
-User Authentication: Simulated user authentication to access personalized content.
-Browse Music: Explore a vast library of songs, albums, and playlists.
-
 Playlists: Create and manage playlists, add or remove songs.
 Music Playback: Control music playback with play, pause, skip, and volume controls.
 
